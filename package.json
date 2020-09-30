@@ -1,0 +1,11 @@
+{
+  "name": "text-htmlify",
+  "version": "1.0.0",
+  "description": "A small and simple library that transforms e-mail text message body to HTML",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Atanas Stanilov <atanasstanilov@gmail.com> (https://astanilov.com)",
+  "license": "MIT"
+}
